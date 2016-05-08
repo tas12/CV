@@ -49,21 +49,21 @@ Developed in a team of 4 during the Founders & Coders course. An English diction
 
 
 ### Junior Javascript Developer and Mentor (May 2016 - Present)
-*** Founders & Coders C.I.C ***
+#### Founders & Coders C.I.C
 - Will be starting freelance work on a charity project that will help mental heath clinicians and their patients.
 - Will also be mentoring on the next Founders & Coders cohort.
 
 ===
 
 ### Trainee Javascript Developer (Jan 2016 - May 2016)
-*** Founders & Coders C.I.C ***
+#### Founders & Coders C.I.C 
 - A life changing experience. I discovered my love for web development, learned a tremendous deal and above all, learned how to learn and help others learn.
 - As well as learning the skills outlined, I learned test driven development, agile methodologies and pair programming.
 
 ===
 
 ### Consultant Test Analyst (July 2012 - Sept 2015)
-*** FDM Group ***
+#### FDM Group
 
 - Completed training in SQL, Unix and Software Testing (achieved ISTQB-ISEB Certified Tester Foundation level).
 - Worked on client sites: Cubic Transportation Systems, Lockheed Martin System Solutions and Acenden Mortgage Services.
@@ -75,12 +75,14 @@ Developed in a team of 4 during the Founders & Coders course. An English diction
 
 
 ## Education
-- BSc Hons Mathematical Science with Computer Science First class (Sep 2008 - Jul 2011) - City University London
+![City University London logo](http://www.staff.city.ac.uk/~fring/PT/city-logo.gif)
+
+BSc Hons Mathematical Science with Computer Science (Sep 2008 - Jul 2011) - First class
 
 ---
 ## Links
 
-[LinkedIn](https://uk.linkedin.com/in/tasnimsultanah) | [tas@foundersandcoders.com](mailto:anita.amini@protonmail.com) | [Codewars](http://www.codewars.com/users/tasnim)
+[LinkedIn](https://uk.linkedin.com/in/tasnimsultanah) | tas@foundersandcoders.com | [Codewars](http://www.codewars.com/users/tasnim)
 
 ---
 ## Interests
