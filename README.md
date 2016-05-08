@@ -1,105 +1,90 @@
-# CV - Anita Amini 
-<!--![](https://github.com/Neats29/CV/blob/master/experience/inkedin.svg) -->
-<!-- ![](https://github.com/Neats29/CV/blob/master/experience/mail.svg) ![](https://github.com/Neats29/CV/blob/master/experience/twitter.svg)-->
+# CV - Tasnim Sultanah
 
-I am a passionate Javascript and Node.js developer. I love the process of making web applications from the frontend logic and design aspects to the querying of databases and writing the backend process. I also have an eye for design and make artworks in my free time.
+Tasnim is a Full-stack Javascript developer and graduate of Maths with Computer Science with 3 years of experience as a Software Test Analyst.
 
-###SKILLS
+She has an interest in working on projects in which she can further develop her programming skills and improve her understanding of APIs, authentication and Test Driven Development.
 
-I have been working on a variety of projects for clients, using the following technologies:
+## Skills
+
+Since learning Full-stack development Tasnim has used the following technologies:
 
 | Languages | Frameworks/Libraries | Testing   | Tools/Others | Databases |
 |:---------:|:--------------------:|:---------:|:------------:|:---------:|
-| Javascript| Hapi.js              | Tape/Tap  | Git          | PostgreSQL|
-| Node.js   | React.js             | Mocha     | npm          | MongoDB   |
-| HTML5     | Angular.js           | QUnit     | Gulp & Grunt | |
-| CSS3      | jQuery               | Lab       | Assemble.io  | |
-| SQL       | Velocity.js          | Cucumber  | Amazon S3    | |
-| Jade      | Bootstrap            | Chai      | Heroku       | |
-| Markdown  | Sass                 | Jest      | SVN          | |
-| Handlebars| Ionic                |           |              | | 
+| Javascript| Hapi.js              | Tape  | Git          | PostgreSQL|
+| Node.js   | React.js             |      | npm          | Redis   |
+| HTML5     |            | QUnit     |  | |
+| CSS3      | jQuery               |        |   | |
+| SQL       |          | Jasmine  |     | |
+| Handlebars     | Bootstrap/React-Bootstrap            |       | Heroku       | |      |
 
 
 
 ---
-###PROJECTS
+## Projects
 
-- [Photo ID App](projects/photoId.md)
-- [Map App for Local Businesses](projects/map.md) - close source
-- [A production-Process Management Tool](projects/productivity.md)
-- [Puzzle for Toddlers](projects/puzzle.md)
-- [React.js Unit Converter](http://neats29.github.io/React-Unit-Converter/pub/)
-- [Education App](http://pajoa.herokuapp.com/)
+### [Homeless Services Hub](https://github.com/tasminions/homeless-services-app.git)
 
-####OPEN SOURCE CONTRIBUTIONS
-- [Open source text editor theme extension](https://github.com/Neats29/Brackets-Midnight-Blue-Theme)
-- [Heroku Deployment Tutorial ](https://github.com/Neats29/Learn-Heroku)
-- [DuckDuckGo](https://github.com/duckduckgo/zeroclickinfo-goodies)
-- [intermezzOS](https://github.com/intermezzOS/book)
+Developed in a team of 3 for a hackathon. A web app for those who are close to becoming homeless. Provides real time information on services available to those in need. Information is updated by service providers using a form. Also serves as an API for projects in need of real time information on homeless services.
 
+#### Technologies and languages used:
++ React.js
++ PostgreSQL
++ Node.js
++ Javascript
++ ZenSend API
+
+### [Word Panda](https://github.com/olot/wordpanda.git)
+
+Developed in a team of 4 during the Founders & Coders course. An English dictionary that includes an auto-complete feature. [Click to view on Heroku.](https://word-panda.herokuapp.com/)
+
+#### Technologies and languages used:
+
++ Javascript
++ Node.js
++ Wordnik API
 
 ---
 
-###EXPERIENCE
+## Experience
 
 
-<img src="https://github.com/Neats29/CV/blob/master/experience/cohaesus.png" width="260">
-
-####Associate Web Developer (Jan 2016 - Present)
-- Work mainly on greenfield projects, developing for top agencies in the UK. 
+### Junior Javascript Developer and Mentor (May 2016 - Present)
+*** Founders & Coders C.I.C ***
+- Will be starting freelance work on a charity project that will help mental heath clinicians and their patients.
+- Will also be mentoring on the next Founders & Coders cohort.
 
 ===
-<img src="https://github.com/Neats29/CV/blob/master/experience/wcrs.png" width="170">
 
-####Web Developer (Aug 2015 - Present) 4-Month Contract 
-- Worked on a confidential localisation project for one of the biggest tech companies in the world.
-- I have developed skills that allow me to rapidly get familiar with a __large codebase__, write __high quality, maintainable code__, as well as __responsive design__, work with a __multidisciplinary team__, have great __attention to detail__ and meet __tight deadlines__ comfortably.
-
-===
-<img src="https://github.com/Neats29/CV/blob/master/experience/fac.png" width="240">
-
-####Full Stack Freelance Developer (Mar 2015 - Aug 2015)
-
-- Worked on MVPs and projects to create web applications for clients across Europe.
-
-#### 8-Week Intensive Web Development Course (Jan 2015 - Mar 2015)
-
-- A __life changing experience__. I discovered my __love for web development__, __learned a tremendous deal__ and above all, __learned how to learn and help others learn.__
-- As well as learning the skills outlined, I learned __test driven development__, __agile methodologies__ and __pair programming.__
-- I helped teach the course at Founders & Coders by creating learning materials, contributing to the curriculum and mentoring.
+### Trainee Javascript Developer (Jan 2016 - May 2016)
+*** Founders & Coders C.I.C ***
+- A life changing experience. I discovered my love for web development, learned a tremendous deal and above all, learned how to learn and help others learn.
+- As well as learning the skills outlined, I learned test driven development, agile methodologies and pair programming.
 
 ===
-<img src="https://github.com/Neats29/CV/blob/master/experience/mrc.png" width="260">
 
-#### Clinical Data Manager (May 2014 - Feb 2015)
+### Consultant Test Analyst (July 2012 - Sept 2015)
+*** FDM Group ***
 
-- Promoted from Clinical Trials Assistant at the MRC Clinical Trials Unit at UCL.
-- Worked on a number of observational studies and prospective cohorts of children and adults living with HIV.
-- UCL Athena SWAN committee member working to ensure gender equality in the STEM fields.
-- Member of the CTU Twitter committee, representing the unit on Twitter.
-
-#### __Clinical Trials Assistant (May 2013 - May 2014)__
-- Worked on a number of HIV and cancer clinical trials.
-
---- 
-
-
-###EDUCATION
-- BSc Hons Pharmaceutical Science 2:1  (Sep 2009 - Jul 2012) - Kingston University
+- Completed training in SQL, Unix and Software Testing (achieved ISTQB-ISEB Certified Tester Foundation level).
+- Worked on client sites: Cubic Transportation Systems, Lockheed Martin System Solutions and Acenden Mortgage Services.
+- Wrote integration tests in HP Quality Centre and prepared test data in XML and SQL.
+- Verified tests by checking BI reports, querying SQL databases and checking user interfaces.
+- Improved team work and communication skills through regular interaction with Testers, Developers and suppliers.
 
 ---
-###LINKS
 
-[LinkedIn](https://uk.linkedin.com/in/anitaamini) | [anita.amini@protonmail.com](mailto:anita.amini@protonmail.com) |
-[Twitter](https://twitter.com/neats29) | [Codewars](http://www.codewars.com/users/Neats29)
+
+## Education
+- BSc Hons Mathematical Science with Computer Science First class (Sep 2008 - Jul 2011) - City University London
 
 ---
-###INTERESTS
-* Learning
-* Climbing
-* Internet Privacy
-* Documentaries
-* Food Science
-* Music Production
-* Theoretical Physics
+## Links
 
+[LinkedIn](https://uk.linkedin.com/in/tasnimsultanah) | [tas@foundersandcoders.com](mailto:anita.amini@protonmail.com) | [Codewars](http://www.codewars.com/users/tasnim)
+
+---
+## Interests
+* Gardening and outdoors
+* Baking
+* Building and making
+* Yoga
