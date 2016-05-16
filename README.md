@@ -43,6 +43,10 @@ Developed in a team of 4 during the Founders & Coders course. An English diction
 + Node.js
 + Wordnik API
 
+### [Practice with IPCortex API](https://github.com/tas12/practice)
+
+Working on creating a chat page using React and the IPCortex API.
+
 ---
 
 ## Experience
@@ -57,8 +61,10 @@ Developed in a team of 4 during the Founders & Coders course. An English diction
 
 ### Trainee Javascript Developer (Jan 2016 - May 2016)
 #### Founders & Coders C.I.C 
-- A life changing experience. I discovered my love for web development, learned a tremendous deal and above all, learned how to learn and help others learn.
-- As well as learning the skills outlined, I learned test driven development, agile methodologies and pair programming.
+- Took part in peer-led learning in full-stack development.
+- Gained experience with a number technologies such as Node.js, React.js and test tools such as Tape.
+- Worked in teams on weekly projects to practice skills learnt each week.
+- Introduced to NoSQL databases such as Redis.
 
 ===
 
